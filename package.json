@@ -1,0 +1,23 @@
+{
+  "name": "regression",
+  "description": "",
+  "keywords": [],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jb55/regression.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --harmony --reporter spec"
+  },
+  "dependencies": {
+    "json-interact": "0.0.1"
+  },
+  "devDependencies": {
+    "csv-columnify": "0.0.2",
+    "expect.js": "*",
+    "jb55-json2csv": "^3.0.0",
+    "mocha": "*"
+  }
+}
