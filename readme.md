@@ -3,8 +3,8 @@
 
 Experiments in hearthstone card cost modeling with neural networks in R
 
-* cards.r: basic nnet code
-* prepare.js: node code to prepare the json data
+* `cards.r`: basic nnet code
+* `prepare.js`: node code to prepare the json data
 
 ## Commands
 
